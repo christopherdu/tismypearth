@@ -1,0 +1,27 @@
+{
+  "name": "twitter-tismpearth",
+  "version": "1.0.0",
+  "description": "A twitter bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherdu/twitter-timypearth.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Christopher Du, @christophvrdu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopherdu/twitter-timypearth/issues"
+  },
+  "homepage": "https://github.com/christopherdu/twitter-timypearth#readme",
+  "dependencies": {
+    "image-downloader": "^3.4.1",
+    "request": "^2.88.0"
+  }
+}
