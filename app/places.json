@@ -94,7 +94,8 @@
             {"name" : "Gobi Desert","Country" : "Mongolia"},
             {"name" : "Panjin Red Beach","Country" : "China"},
             {"name" : "Neelum Valley","Country" : "Pakistan"},
-            {"name" : "Lake Manasarovar","Country" : "Tibet"}
+            {"name" : "Lake Manasarovar","Country" : "Tibet"},
+            {"name" : "Heaven's Gate","Country" : "China"}
         ],
         "Oceania" : [
             {"name" : "Glowworm Caves","Country" : "New Zealand"},
